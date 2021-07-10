@@ -1,0 +1,6 @@
+# .eslintignore
+# symlinked to .prettierignore
+
+node_modules
+dist
+*.log

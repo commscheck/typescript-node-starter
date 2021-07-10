@@ -1,0 +1,11 @@
+Dockerfile
+node_modules
+nodemon.json
+*.log
+.dockerignore
+.eslintignore
+.eslintrc.js
+.git
+.gitignore
+.prettierignore
+.prettierrc.js
