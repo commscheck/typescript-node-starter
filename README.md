@@ -20,13 +20,14 @@ This project is a baseline to save myself
 
 ## Recommended setup
 
-1. Update `name`, `author`, `docker:build`, and `docker:run` in [package.json](./package.json)
-   with your own details
-1. Update [.nvmrc](./.nvmrc) to your preferred node version
-1. Install [nvm](https://github.com/nvm-sh/nvm) then run `nvm install && nvm use`
-1. Run `npm update` or `yarn update` to get the latest package versions
+* Update `name`, `author`, `docker:build`, and `docker:run` in [package.json](./package.json)
+  with your own details
+* Update [.nvmrc](./.nvmrc) and the top line of [Dockerfile](./Dockerfile)
+  with your preferred node version
+* Install [nvm](https://github.com/nvm-sh/nvm) then run `nvm install && nvm use`
+* Run `npm update` or `yarn update` to get the latest package versions
 
 ## License
 
-I am releasing this project under the Unlicense (see [LICENSE](./LICENSE).
+This repo is released under the Unlicense (see [LICENSE](./LICENSE)).
 However, the dependencies of this project are subject to their own licenses respectively.
