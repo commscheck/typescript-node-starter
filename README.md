@@ -22,9 +22,8 @@ This project is a baseline to save myself
 
 1. Update `name`, `author`, `docker:build`, and `docker:run` in [package.json](./package.json)
    with your own details
-1. Install [nvm](https://github.com/nvm-sh/nvm)
 1. Update [.nvmrc](./.nvmrc) to your preferred node version
-1. Run `nvm install && nvm use`
+1. Install [nvm](https://github.com/nvm-sh/nvm) then run `nvm install && nvm use`
 1. Run `npm update` or `yarn update` to get the latest package versions
 
 ## License
